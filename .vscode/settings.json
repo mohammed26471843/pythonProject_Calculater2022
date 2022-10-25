@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4e83927-4268-4bcc-9aa2-11806ee4c984/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/calculater202210",
+    "appService.deploySubpath": "."
+}
